@@ -1,2 +1,2 @@
-model_checkpoint_path: "mnist.ckpt-800"
-all_model_checkpoint_paths: "mnist.ckpt-800"
+model_checkpoint_path: "mnist.ckpt-2500"
+all_model_checkpoint_paths: "mnist.ckpt-2500"
