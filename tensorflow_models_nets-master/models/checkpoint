@@ -1,0 +1,6 @@
+model_checkpoint_path: "best_models_10000_0.8501.ckpt"
+all_model_checkpoint_paths: "model.ckpt-8000"
+all_model_checkpoint_paths: "best_models_8000_0.7655.ckpt"
+all_model_checkpoint_paths: "best_models_9000_0.8212.ckpt"
+all_model_checkpoint_paths: "model.ckpt-10000"
+all_model_checkpoint_paths: "best_models_10000_0.8501.ckpt"
