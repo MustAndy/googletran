@@ -29,9 +29,9 @@ from datasets import dataset_utils
 
 slim = tf.contrib.slim
 
-_FILE_PATTERN = 'jingqing_%s*.tfrecords'
+_FILE_PATTERN = 'jingqing_%s_*.tfrecords'
 
-SPLITS_TO_SIZES = {'train': 2500, 'validation': 1500}
+SPLITS_TO_SIZES = {'train': 2500, 'validation': 1200}
 
 _NUM_CLASSES = 5
 
